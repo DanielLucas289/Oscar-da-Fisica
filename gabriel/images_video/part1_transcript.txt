@@ -1,0 +1,35 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/part1.mp3, file size: 2.24 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 293.9 seconds
+Language: portuguese
+Timestamped segments:
+[00:000.0 - 00:017.0]  Oscar da Física, lançamento de projeto por Celastga e Torque, elaborado por Daniel Lucas Soares Madureira e Gabriel da Silva Carcino.
+[00:018.0 - 00:031.0]  O objeto objetivado foi a catapulta e sua aplicação física acerca dos conceitos da matéria.
+[00:031.0 - 00:034.0]  A explicação histórica
+[00:034.0 - 00:051.0]  A história da catapulta começa com a invenção pelos gregos por volta de 400 a.C. para ser usada como arma de cerco, lançando grandes pedras contra muralhas e fortificações.
+[00:051.0 - 01:000.0]  Os romanos as desenvolveram e aperfeiçoaram, tornando-a uma arma crucial em batalhas e cercos.
+[01:000.0 - 01:020.0]  Durante a Idade Média, o trabuco surgiu como uma evolução, sendo usado para arremessar projéteis cada vez mais pesados e até mesmo cadáveres de animais doentes, numa forma primitiva de guerra biológica.
+[01:020.0 - 01:035.0]  Mais tarde, o uso da catapulta foi adaptado, sendo empregada até mesmo no século XX, como na Primeira Guerra Mundial, para lançar granadas de mão sobre as trincheiras inimigas.
+[01:035.0 - 01:049.0]  Subsequentemente, catapultas de torção foram desenvolvidas, como a manganela, o onagru e a balista, a mais sofisticada catapulta.
+[01:049.0 - 01:052.0]  EXPLICAÇÃO TÉCNICA
+[01:052.0 - 02:000.0]  Um membro sob tensão propele o braço lançador, muito parecido com uma besta gigante.
+[02:000.0 - 02:009.0]  Acerca do seu uso, há a presença de alguns princípios estudados pela física mecânica.
+[02:009.0 - 02:022.0]  Primeiro, a alavanca é fundamentalmente uma máquina simples do tipo alavanca, ou seja, possui um ponto fixo ou ponto de apoio e uma barra rígida.
+[02:022.0 - 02:036.0]  Há força aplicada a uma distância do ponto de apoio, para multiplicar a força mecânica ou a velocidade da parte onde está o projétil, com observação e transformação de energia.
+[02:036.0 - 02:043.0]  Durante o funcionamento, há a transformação de energia, inicialmente a energia potencial.
+[02:043.0 - 03:003.0]  Em catapultas antigas, essa energia potencial é a elástica, proveniente da deformação de materiais elásticos, como cordas retorcidas, molas ou a flexão do próprio braço ao serem puxados para trás.
+[03:003.0 - 03:015.0]  Em catapultas modernas, a energia potencial pode ser gravitacional, quando um contrapeso elevado é usado.
+[03:015.0 - 03:027.0]  Após ser acionada, a energia potencial é rapidamente convertida em cinética do braço e do projeto, impulsionando-o para a frente.
+[03:027.0 - 03:029.0]  Movimento e Torque
+[03:029.0 - 03:048.0]  Sua eficácia depende do momento ou torque gerado. A força aplicada a uma maior distância do ponto de torção, resulta num torque maior, o que aumenta o impulso dado ao projétil e, consequentemente, sua velocidade de lançamento.
+[03:048.0 - 03:051.0]  Há também as leis de Newton.
+[03:051.0 - 04:008.0]  A lei da inércia é observada quando o projétil permanece em repouso até que a força da catapulta o empurre e continuaria em movimento retilíneo uniforme, se não fosse a ação da gravidade e resistência do ar.
+[04:008.0 - 04:020.0]  Segundo a lei, esta rege sua aceleração do projétil, pois a força maior aplicada a uma massa menor resulta em maior aceleração e velocidade de lançamento.
+[04:020.0 - 04:026.0]  Também há o conceito da balística, o lançamento óbligo.
+[04:026.0 - 04:047.0]  Uma vez lançado, o projétil segue a trajetória parabólica sob a influência constante da gravidade, na direção vertical, e movendo-se com velocidade aproximadamente constante, ignorando a resistência do ar na direção horizontal.
+[04:047.0 - 04:054.0]  Ao analisar tal processo, nos deparamos com um estudo clássico da cinemática.
+Complete transcription result saved to: /home/ubuntu/part1_transcription_20251114_221506.json
